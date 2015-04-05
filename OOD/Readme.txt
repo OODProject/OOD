@@ -1,0 +1,1 @@
+There is a lib folder that we have to put in this folder in order to run the project:)
